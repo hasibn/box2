@@ -1,0 +1,125 @@
+*{
+    font-family: 'Playfair Display', serif;
+}
+.hasib{
+    border: 1px solid;
+    text-align: center;
+   margin: auto;
+    width: 320px; 
+    line-height: 2;
+   
+    
+    
+    
+}
+.pg,.cls{
+    display: inline-block;
+    
+}
+.kg,.bls{
+display:inline-block;
+}
+.in,.al{
+    flex-direction: column;
+}
+.rifat{
+    border: 1px solid;
+    text-align: center;
+    width: 320px; 
+    margin: auto;
+    line-height: 2;
+    
+    
+
+  
+    
+}
+.pal{
+    border: 1px solid;
+    text-align: center;
+    width: 320px; 
+    margin: auto;
+    border-radius: 8px;
+    
+   
+    
+    
+    
+    
+    
+
+   
+    
+}
+.lot,.down{
+    display: inline-block;
+    
+
+
+}
+.hasib,.rifat,.pal{
+    
+    
+    
+     height: 70vh;  
+     
+    display:inline-flex;
+    
+
+    
+   
+    
+    
+   
+    
+    
+
+}
+.hero{
+    text-align: center;
+    margin-top:90px;
+   
+}
+.pg i{
+    color:crimson;
+}
+.kg i{
+    color:crimson;
+
+}
+
+.hasib,.nirob{
+    color:white;
+    background-color:darkblue;
+    border-radius: 16px;
+   
+}
+
+
+.ct button{
+    background-color:brown;
+    color: cornsilk;
+    font-size: 23px;
+    border-radius: 8px;
+}
+.bt button{
+    background-color: brown;
+    color: cornsilk;
+    font-size: 23px;
+    border-radius: 8px;
+
+}
+.rifat,.masud{
+    background-color:darkblue;
+    color: white;
+    border-radius: 16px;
+  
+}
+
+.pal,.saiful{
+    background-color:darkblue;
+    color: white;
+    border-radius: 16px;
+    margin: auto;
+    
+}
